@@ -42,3 +42,5 @@ When you start coding the logic of your game there are going to be 3 things you 
 ## References/Resources
 * [w3Schools](http://www.w3schools.com/)
 * [DOM Reference](http://www.w3schools.com/jsref/dom_obj_document.asp)
+
+####  When in doubt, ask google!!!!!
