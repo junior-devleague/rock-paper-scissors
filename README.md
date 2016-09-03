@@ -1,4 +1,4 @@
-# rock_paper_scizzors
+# rock_paper_scissors
 Rock Paper Scissor Game using JS, HTML, CSS
 
 ## Description
